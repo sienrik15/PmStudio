@@ -1,0 +1,236 @@
+
+
+    /* Navigation*/
+         html,
+    body,
+    header,
+    .view0{
+        height: 91% !important ;
+       }
+    .navbar {
+        background-color: rgba(255, 255, 255, 1);
+    }
+    
+    .top-nav-collapse {
+        background-color: rgba(255, 255, 255, .93) !important;
+    }
+@media only screen and (max-width: 768px) {
+         
+        .navbar {
+            background-color:  rgba(255, 255, 255, 1) !important;
+         
+        }
+
+  
+    /*   .navbar-fixed-top{
+            position: !important;
+
+       }*/
+       .nopadd{
+           padding-left: 0px; 
+           padding-right: 0px;
+       }
+       .nav-mag{
+           margin-top: 53px;
+       }
+footer.page-footer .footer-copyright {
+    overflow: hidden;
+    height: 70px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, .8);
+    background-color: rgba(0, 0, 0, .2);
+    text-align: center;
+         }
+
+.cont{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.cont1{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.text-alig{
+   text-align: left !important;
+}
+.view1 {
+    
+        background: url("../recurs/headerSm.png") center center !important;
+        background-size: 100% 100% !important;
+        background-repeat: no-repeat;
+
+        height: 100% !important;
+    }
+}
+
+
+.nopad{
+           padding-left: 0px ; 
+           padding-right: 0px ;
+       }
+.nopad2{
+     padding-top: 0px !important;
+     padding-bottom: 0px;
+     margin-top: 0px !important;
+
+}
+    /*Intro*/
+.view1 {
+    
+        background: url("../recurs/REGxSw.png") center center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+
+        height: 100% !important;
+    }
+
+.view3 {
+    
+        background: url("../recurs/header.png") center center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+
+        height: 100% !important;
+    }
+.groun{
+    /*background-color: rgba(31, 174, 206, 0.15);*/
+}
+.art{
+
+    margin-left: 28px;
+    margin-right: 24px;
+}
+.bar{
+    background-color: rgba(0, 0, 0, .8) !important;
+}
+
+.michroma{
+
+   font-family: 'Michroma', sans-serif;
+}
+
+.maven{
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.sect-color{
+        background-color: #ecf0f1
+}
+.hm-indigo-slight .full-bg-img, .hm-indigo-slight .mask {
+    background-color:transparent !important; 
+}
+
+@media only screen and (min-width: 768px){
+.section-initial{
+    background-color: rgba(0, 41, 56, 0.9);
+    margin-top: 18%;
+    padding: 10px;
+   /* padding: 5px !important;
+    padding: 3.75rem;
+    max-width: 410px;*/
+}
+
+}
+.paddng-set
+{
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #fafafa;
+}
+.stil{
+    background-color: #f2f2f2;
+}
+.stil1{
+
+    background-color: #ffffff;
+}
+.stil2{
+
+    background-color: #039be5;
+}
+.cont{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.h1-padd{
+
+    padding-bottom: 28px;  
+
+}
+.Work-Sans-300{
+font-family: 'Work Sans', sans-serif;
+}
+.text-alig{
+   text-align: center ;
+}
+.colr-pro{
+    color:  #1ED760 !important;  
+}
+.colr-pro1{
+    color:  #4285F4 !important;  
+}
+.recommended{
+    background-color: #1ED760;
+    color: #FFF;
+    text-align: center;
+    left: 0;
+    position: relative;
+    top: -1px;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1;
+    padding: .6em 0 .4em;
+}
+.recommended1{
+  background-color:  #4285F4;
+    color: #FFF;
+    text-align: center;
+    left: 0;
+    position: relative;
+    top: -1px;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1;
+    padding: .6em 0 .4em;
+   
+}
+.section{
+    margin-bottom: 0px !important; 
+}
+.icon-pad{
+    padding-bottom:15px; 
+}
+
+@media only screen and (min-width: 1200px) {
+    
+.container {
+    width: 1335px !important;
+}
+
+}
+
+.navbar.navbar-dark .breadcrumb a:hover, .navbar.navbar-dark .navbar-nav .nav-item a:hover {
+    transition: .35s;
+    color: rgb(30, 215, 96);
+}
+
+.navbar.navbar-dark .breadcrumb a, .navbar.navbar-dark .navbar-nav .nav-item a {
+    color: #757575;
+}
+
+.navbar.navbar-dark .navbar-brand, .navbar.navbar-dark .navbar-brand:hover {
+    color: #757575;
+}
+
+.h1-text{
+
+    color: #fff;
+}
+.p-text{
+    color:rgba(248, 248, 248, 0.79);
+}
+.navbar.navbar-dark .nav-link, .navbar.navbar-dark .navbar-toggler {
+    color: #818a91;
+}
