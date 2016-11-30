@@ -84,6 +84,19 @@ footer.page-footer .footer-copyright {
         height: 100% !important;
     }
 
+.view2{
+
+        background: url("../recurs/blurred.jpg") center center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+       /* height: 100% !important;*/
+}
+
+.txt1{
+
+    color: #fafafa;
+}
+
 .view3 {
     
         background: url("../recurs/header.png") center center;
